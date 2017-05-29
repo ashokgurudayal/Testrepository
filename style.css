@@ -1,0 +1,179 @@
+.com{
+    list-style-type: none;
+    margin: 0;
+    padding:0;
+    overflow: hidden;
+    background-color: #333;
+	
+}
+#back h1,h2{
+	font-family:cursive;
+	
+}
+.com li {
+	padding:10px 30px;
+    float: left;
+	margin: 5px 5px 5px 5px;
+	list-style-type:none;
+	color: purple;
+}
+
+.com li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 10px 20px;
+    text-decoration: none;
+}
+
+.com li a:hover {
+    background-color: #111;
+}
+.pic img{
+	width:400px;
+	height:400px;
+}
+.common h2{
+	color: BLUE;
+	font-family:fantasy;
+	
+}
+#back{
+	
+	background-image:url("images/back.jpg");
+	background-position:center;
+	background-size:cover;
+	height: 200px;
+	
+}
+
+.common{
+	width:1366px;
+	height:100%;
+	float:none;
+
+}
+.pic{
+	width:1366px;
+	height:400px;
+}
+.main{
+	height:1200px;
+	width:1000px;
+	
+}
+.dleft{
+	width:300px;
+	float:left;
+	
+	
+}
+.dleft li{
+	width:200px;
+	height:30px;
+	border:1px;
+	padding:100px;
+	float:left;
+	font-size:20px;
+	list-style-position:inside;
+	margin-bottom:30px;
+	text-align:center;
+}
+.dright{
+
+	width:500px;
+	float:left;
+	margin-left:100px;
+	
+}
+.dright li{
+
+	border:1px solid;
+	border-color:BLUE;
+	float:right;
+	margin-bottom:40px;
+	margin-top:20px;
+	overflow:hidden;
+	height:200px;
+
+	
+	
+}
+.dright li img{
+	width:280px;
+	height:280px;
+	
+}
+.reg{
+	margin:100px 200px 100px 200px;
+	border:2px solid;
+	border-color:BLUE;
+	
+}
+#photog{
+	width:1200px;
+	height:800px;
+}
+#photog img{
+	float:right;
+	margin:20px;
+	width:100px;
+	height:120px;
+	overflow:hidden;
+	border-radius:20%;
+	
+	
+}
+#team{
+	width:300px;
+	float:left;
+	border:2px solid;
+	border-color:BLUE;
+	margin:100px;
+	
+	
+}
+#team li{
+	list-style-type:none;
+	width:200px;
+	height:100px;
+	margin:30px;
+	border-bottom:2px solid;
+	border-bottom-color:BLUE;
+	
+	float:left;
+	font-size:20px;
+		
+	text-align:center;
+	
+}
+#timage{
+	width:300px;
+	float:left;
+	margin-left:10px;
+
+	
+}
+#timage li{
+	margin-top:10px;
+	float:right;
+	
+	
+	list-style-type:none;
+	border:1px solid;
+	border-color:BLUE;
+
+	
+}
+body{
+	background-image:url("images/myback.jpg");
+}
+
+#timage li img{
+	width:200px;
+	height:180px;
+	float:right;
+}
+.abc{
+	background-image:url("images/myback.jpg")
+}
